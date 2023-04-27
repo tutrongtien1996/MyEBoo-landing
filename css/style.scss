@@ -1,7 +1,7 @@
 $white: #fefdfc;
 $black: #050505;
-$colorPrimary: #fd9d02;
-$btnColor:#fd9d02;
+$colorPrimary: #fe7225;
+$btnColor:#fe7225;
 
 @mixin main-font {
   font-family: 'Raleway', sans-serif;
@@ -271,7 +271,7 @@ a:focus {
 .navbar-brand span {
   font-size: 24px;
   font-weight: 700;
-  color: #fd9d02;
+  color: #fe7225;
   margin-top: 5px;
 
 }
@@ -387,7 +387,7 @@ a:focus {
       opacity: 1;
 
       &.active {
-        background-color: #fd9d02;
+        background-color: #fe7225;
       }
     }
   }

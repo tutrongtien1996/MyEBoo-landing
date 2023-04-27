@@ -44,7 +44,7 @@ body {
   content: "";
   width: 100px;
   height: 1px;
-  background-color: #fd9d02;
+  background-color: #fe7225;
   position: absolute;
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -229,7 +229,7 @@ a:focus {
 .navbar-brand span {
   font-size: 24px;
   font-weight: 700;
-  color: #fd9d02;
+  color: #fe7225;
   margin-top: 5px;
 }
 
@@ -290,7 +290,7 @@ a:focus {
 
 .slider_section .detail-box h1 {
   font-weight: bold;
-  color: #fd9d02;
+  color: #fe7225;
   font-size: 5.5rem;
 }
 
@@ -361,7 +361,7 @@ a:focus {
 }
 
 .slider_section .carousel-indicators li.active {
-  background-color: #fd9d02;
+  background-color: #fe7225;
 }
 
 .feature_section {
@@ -391,7 +391,7 @@ a:focus {
 .feature_section .box .head-box .img-box svg {
   width: 50px;
   height: auto;
-  fill: #fd9d02;
+  fill: #fe7225;
 }
 
 .feature_section .box .head-box h6 {
@@ -409,7 +409,7 @@ a:focus {
 }
 
 .feature_section .box:hover {
-  background-color: #fd9d02;
+  background-color: #fe7225;
   color: #fefdfc;
 }
 
@@ -420,15 +420,15 @@ a:focus {
 .feature_section a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #fd9d02;
+  background-color: #fe7225;
   color: #fefdfc;
   border-radius: 0;
-  border: 1px solid #fd9d02;
+  border: 1px solid #fe7225;
 }
 
 .feature_section a:hover {
   background-color: transparent;
-  color: #fd9d02;
+  color: #fe7225;
 }
 
 .download_section {
@@ -488,16 +488,16 @@ a:focus {
 .download_section .btn-1 {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #fd9d02;
+  background-color: #fe7225;
   color: #fefdfc;
   border-radius: 0;
-  border: 1px solid #fd9d02;
+  border: 1px solid #fe7225;
   margin-top: 25px;
 }
 
 .download_section .btn-1:hover {
   background-color: transparent;
-  color: #fd9d02;
+  color: #fe7225;
 }
 
 .download_section .btn-2 {
@@ -531,7 +531,7 @@ a:focus {
 }
 
 .about_section {
-  background-image: url(../images/about-bg.jpg);
+  background-image: url(../images/about-bg.png);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -566,15 +566,15 @@ a:focus {
 .about_section .detail-box.b-1 a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #fd9d02;
+  background-color: #fe7225;
   color: #fefdfc;
   border-radius: 0;
-  border: 1px solid #fd9d02;
+  border: 1px solid #fe7225;
 }
 
 .about_section .detail-box.b-1 a:hover {
   background-color: transparent;
-  color: #fd9d02;
+  color: #fe7225;
 }
 
 .subscribe_section {
@@ -604,17 +604,17 @@ a:focus {
   height: 50px;
   display: inline-block;
   padding: 0 0;
-  background-color: #fd9d02;
+  background-color: #fe7225;
   color: #fefdfc;
   border-radius: 0;
-  border: 1px solid #fd9d02;
+  border: 1px solid #fe7225;
   font-weight: bold;
   line-height: 50px;
 }
 
 .subscribe_section form button:hover {
   background-color: transparent;
-  color: #fd9d02;
+  color: #fe7225;
 }
 
 .client_section .client_container .client-id {
@@ -637,7 +637,7 @@ a:focus {
 }
 
 .client_section .client_container .client-id .name h6 {
-  color: #fd9d02;
+  color: #fe7225;
   margin: 5px 0;
   font-weight: bold;
 }
@@ -649,15 +649,15 @@ a:focus {
 .client_section .client_container a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #fd9d02;
+  background-color: #fe7225;
   color: #fefdfc;
   border-radius: 0;
-  border: 1px solid #fd9d02;
+  border: 1px solid #fe7225;
 }
 
 .client_section .client_container a:hover {
   background-color: transparent;
-  color: #fd9d02;
+  color: #fe7225;
 }
 
 /* contact section */
@@ -710,7 +710,7 @@ a:focus {
 
 .contact_form-container button {
   border: none;
-  background-color: #fd9d02;
+  background-color: #fe7225;
   color: #fff;
   font-size: 15px;
   padding: 15px 45px;
@@ -756,7 +756,7 @@ a:focus {
 .info_logo-box h2 {
   font-weight: bold;
   padding: 5px 35px;
-  border-bottom: 1.5px solid #fd9d02;
+  border-bottom: 1.5px solid #fe7225;
 }
 
 .info_section ul {
@@ -773,7 +773,7 @@ a:focus {
 }
 
 .info_section ul li a:hover {
-  color: #fd9d02;
+  color: #fe7225;
 }
 
 .info_section .form_container input {
@@ -799,7 +799,7 @@ a:focus {
 }
 
 .info_section .form_container button {
-  background-color: #fd9d02;
+  background-color: #fe7225;
   border: none;
   outline: none;
   color: #fff;
@@ -834,7 +834,7 @@ a:focus {
 /* end info section */
 /* footer section*/
 .footer_section {
-  background-color: #fd9d02;
+  background-color: #fe7225;
   padding: 20px;
 }
 
